@@ -1,0 +1,77 @@
+﻿  EntryPoint.cpp
+  Merge.cpp
+  Substructure.cpp
+  Mirro.cpp
+  Symmetry.cpp
+  SPrint.cpp
+  StackWithMin.cpp
+  IOStack.cpp
+  PrintTree.cpp
+  BST.cpp
+  FindPath.cpp
+  CopyComplexList.cpp
+  TreeToList.cpp
+  Serialization.cpp
+  Permutation.cpp
+e:\c++\project\offer\swordtooffer\swordtooffer\39-字符串的排列\permutation.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+  Combination.cpp
+  MorethanHalf.cpp
+  GetLeastNumbers.cpp
+e:\c++\project\offer\swordtooffer\swordtooffer\42-最小的k个数\getleastnumbers.cpp(27): warning C4018: “>”: 有符号/无符号不匹配
+e:\c++\project\offer\swordtooffer\swordtooffer\42-最小的k个数\getleastnumbers.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+  Median.cpp
+e:\c++\project\offer\swordtooffer\swordtooffer\43-数据流中的中位数\median.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+  GreatestSum.cpp
+  正在编译...
+  GetNum.cpp
+  SortMinNum.cpp
+e:\c++\project\offer\swordtooffer\swordtooffer\46-把数组排成最小的数\sortminnum.cpp(1): warning C4081: 应输入“newline”；找到“;”
+  Translation.cpp
+e:\c++\project\offer\swordtooffer\swordtooffer\47-把数字翻译成字符串\translation.cpp(1): warning C4081: 应输入“newline”；找到“;”
+  queueWithtwostack.cpp
+  Stack.cpp
+  NextNode.cpp
+  searchIntwo.cpp
+  oneNums.cpp
+  LinkList.cpp
+  Delete.cpp
+  LinkNode.cpp
+  rope.cpp
+  rope2.cpp
+e:\c++\project\offer\swordtooffer\swordtooffer\剪绳子\rope2.cpp(45): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  Reverse.cpp
+  combine.cpp
+  String.cpp
+  pow.cpp
+e:\c++\project\offer\swordtooffer\swordtooffer\库函数pow的实现\pow.cpp(20): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+e:\c++\project\offer\swordtooffer\swordtooffer\库函数pow的实现\pow.cpp(45): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\c++\project\offer\swordtooffer\swordtooffer\库函数pow的实现\pow.cpp(45): warning C4018: “<=”: 有符号/无符号不匹配
+e:\c++\project\offer\swordtooffer\swordtooffer\库函数pow的实现\pow.cpp(63): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  Quick.cpp
+  Quick2.cpp
+e:\c++\project\offer\swordtooffer\swordtooffer\快速排序\quick2.cpp(9): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  -Plus-.cpp
+  正在编译...
+  Printmax.cpp
+  Recuisive.cpp
+  Nochanged.cpp
+  Number.cpp
+  Fibonacci.cpp
+  frog.cpp
+  Min.cpp
+  Robot.cpp
+  Match.cpp
+  Route.cpp
+e:\c++\project\offer\swordtooffer\swordtooffer\矩阵中的路径\route.cpp(62): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+e:\c++\project\offer\swordtooffer\swordtooffer\矩阵中的路径\route.cpp(75): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  Move.cpp
+  Numric.cpp
+  operator.cpp
+  BTree.cpp
+  Middle.cpp
+  Lastk.cpp
+e:\c++\project\offer\swordtooffer\swordtooffer\链表的倒数第k个结点\lastk.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SwordToOffer.vcxproj -> E:\C++\Project\Offer\SwordToOffer\Release\SwordToOffer.exe

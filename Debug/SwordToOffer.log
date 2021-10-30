@@ -1,0 +1,4 @@
+﻿  Translation.cpp
+e:\c++\project\offer\swordtooffer\swordtooffer\47-把数字翻译成字符串\translation.cpp(1): warning C4081: 应输入“newline”；找到“;”
+e:\c++\project\offer\swordtooffer\swordtooffer\47-把数字翻译成字符串\translation.cpp(85): warning C4715: “T47::TranslationNums”: 不是所有的控件路径都返回值
+  SwordToOffer.vcxproj -> E:\C++\Project\Offer\SwordToOffer\Debug\SwordToOffer.exe
